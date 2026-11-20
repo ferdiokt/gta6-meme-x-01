@@ -1,0 +1,6 @@
+Background scene: meme/scene.jpg (text-free; every word in the meme is drawn by render.mjs)
+Tool: image_generate (gpt-image-2-medium), square, 1254x1254, resized to 1080x1080 JPEG q90.
+Checked with vision: no text, letters, logos, watermark or people.
+
+Prompt:
+Square digital painting in the style of Grand Theft Auto loading-screen key art: a Vice City / Florida beachfront boardwalk at golden-hour sunset, tall palm trees silhouetted, a hot pink and orange gradient sky, a glossy pink 1980s convertible parked at the curb on the left, art-deco hotels with neon tubes (no letters), ocean on the right. The lower-centre and right foreground is an open, empty stretch of warm-lit boardwalk pavement with nobody on it (space reserved for a character). Top quarter of the image is calm sky with little detail. Bold comic-ink outlines, saturated colours, cinematic. Absolutely no text, no letters, no numbers, no signs with writing, no logos, no watermark, no people.
